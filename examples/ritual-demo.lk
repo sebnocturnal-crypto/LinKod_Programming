@@ -1,0 +1,28 @@
+::begin
+    dusk "Initializing ritual sequence..."
+
+    ::begin
+        flow.spring "Gathering inputs..."
+        flow "Input A"
+        flow "Input B"
+    ::end
+
+    ::begin
+        dusk.autumn "Harmonizing collected inputs..."
+        stone "Building structure..."
+    ::end
+
+    flame.summer "Executing main action..."
+::end
+
+
+[!]
+    dusk "Verifying identity integrity..."
+    stone "Seal structure validated."
+[/!]
+
+
+::begin
+    dusk "Finalizing ritual..."
+    flame "Ritual complete."
+::end
