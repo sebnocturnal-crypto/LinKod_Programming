@@ -1,0 +1,11 @@
+::begin
+    flow "Hello, LinKod!"
+    dusk "Preparing greeting..."
+    stone "Structure engaged."
+::end
+
+[!]
+    flow "Identity confirmed."
+[/!]
+
+flame "Execution complete."
