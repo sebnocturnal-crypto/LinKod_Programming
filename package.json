@@ -1,0 +1,23 @@
+{
+  "name": "linkod",
+  "version": "1.0.0",
+  "description": "The LinKod language — a symbolic, seasonal, ritual-based programming system.",
+  "type": "module",
+  "bin": {
+    "linKod": "./src/cli/linKod.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "language",
+    "compiler",
+    "interpreter",
+    "symbolic",
+    "ritual",
+    "seasonal",
+    "LinKod"
+  ],
+  "author": "Sebastian",
+  "license": "MIT"
+}
