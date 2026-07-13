@@ -1,0 +1,22 @@
+dusk "Beginning seal demonstration..."
+
+::begin
+    flow "Preparing environment..."
+    stone "Base structure ready."
+::end
+
+
+[!]
+    dusk "Identity verification starting..."
+
+    ::begin
+        flow "Collecting identity markers..."
+        dusk "Harmonizing identity data..."
+        stone "Identity structure stable."
+    ::end
+
+    dusk "Identity verified."
+[/!]
+
+
+flame "Seal demonstration complete."
